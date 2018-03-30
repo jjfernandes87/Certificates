@@ -1,0 +1,6 @@
+ENV["FASTLANE_USER"] = "julio.fernandes87@gmail.com"
+ENV["FASTLANE_PASSWORD"] = "JFJFernandes87"
+ENV["MATCH_PASSWORD"] = "JFJFernandes87"
+ENV["SLACK_URL"] = "https://hooks.slack.com/services/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"
+team_id = "8355821"
+generated_fastfile_id "374a945e-9ada-4130-a843-eb8e4b220bd3"
